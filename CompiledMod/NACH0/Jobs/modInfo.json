@@ -1,0 +1,139 @@
+[{
+	"name": "NACH0.Jobs",
+	"version": "1.0.0",
+	"namepretty": "NACH0's Jobs",
+	"enabled": true,
+	"marksgamemodded": true,
+	"compatibleversions": [
+		"0.7.0"
+	],
+	"jsonFiles": [
+		{
+			"fileType": "addNewTypes",
+			"index": 10000,
+			"relativePath": "gamedata/types/JobBlocks.json"
+		},
+		{
+			"fileType": "generateBlocks",
+			"index": 10000,
+			"relativePath": "gamedata/types/RotatableJobBlocks.json"
+		},
+		{
+			"fileType": "addOrOverrideTextureMappingEntries",
+			"index": 10000,
+			"relativePath": "gamedata/Textures/materials/texturemapping.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10000,
+			"limitsUIMapping": [
+				"NACH0.Types.BasicStoneMason"
+			],
+			"npcType": "NACH0.Jobs.BasicStoneMason",
+			"relativePath": "gamedata/recipes/StoneMason.json"
+		},
+		{
+			"fileType": "addScience",
+			"index": 15000,
+			"relativePath": "gamedata/research/Hidden.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCTypes",
+			"index": 10000,
+			"relativePath": "gamedata/NPCTypes/NPCTypes.json"
+		},
+		{
+			"fileType": "addBlockJobs",
+			"index": 10000,
+			"relativePath": "gamedata/Base/JobBlocks/JobBlocks.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10000,
+			"limitsUIMapping": [
+				"NACH0.Types.BrickMakerx+",
+				"NACH0.Types.BrickMakerx-",
+				"NACH0.Types.BrickMakerz+",
+				"NACH0.Types.BrickMakerz-",
+				"NACH0.Types.BrickMakerlitx+",
+				"NACH0.Types.BrickMakerlitx-",
+				"NACH0.Types.BrickMakerlitz+",
+				"NACH0.Types.BrickMakerlitz-"
+			],
+			"npcType": "NACH0.Jobs.BrickMaker",
+			"relativePath": "gamedata/recipes/BrickMaker.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10000,
+			"limitsUIMapping": [
+				"NACH0.Types.CopperWorker"
+			],
+			"npcType": "NACH0.Jobs.CopperWorker",
+			"relativePath": "gamedata/recipes/CopperWorker.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10000,
+			"limitsUIMapping": [
+				"NACH0.Types.Fletcher"
+			],
+			"npcType": "NACH0.Jobs.Fletcher",
+			"relativePath": "gamedata/recipes/Fletcher.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10000,
+			"limitsUIMapping": [
+				"NACH0.Types.ToolCrafter"
+			],
+			"npcType": "NACH0.Jobs.ToolCrafter",
+			"relativePath": "gamedata/recipes/ToolCrafter.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10000,
+			"npcType": "pipliz.crafter",
+			"relativePath": "gamedata/recipes/Crafter/Override.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10000,
+			"npcType": "pipliz.crafter",
+			"relativePath": "gamedata/recipes/Crafter/General.json"
+		},
+		{
+			"fileType": "addScience",
+			"index": 10000,
+			"relativePath": "gamedata/research/General.json"
+		},
+		{
+			"fileType": "addOrOverrideScience",
+			"index": 10000,
+			"relativePath": "gamedata/research/Override.json"
+		},
+		{
+			"fileType": "addScienceUnlocks",
+			"index": 15000,
+			"relativePath": "gamedata/research/Unlocks.json"
+		},
+		{
+			"fileType": "addOrReplacePlayerRecipes",
+			"index": 15000,
+			"relativePath": "gamedata/recipes/Player/General.json"
+		},
+		{
+			"fileType": "addOrReplacePlayerRecipes",
+			"index": 15000,
+			"relativePath": "gamedata/recipes/Player/Override.json"
+		}
+	],
+	"patchnotes": [{
+		"version": "1.0.0",
+		"notes": [
+			"Initial Release",
+			"*If you find any issues or have suggestions join the discord",
+			"*discord.gg/tqFhxhm"
+		]
+	}]
+}]

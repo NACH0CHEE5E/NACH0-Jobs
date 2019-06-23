@@ -1,0 +1,20 @@
+[
+	{
+		"key" : "pipliz.baseresearch.crossbowbolt",
+		"unlocksRecipes" : [
+			"NACH0.Fletcher.crossbowbolt"
+		]
+	},
+	{
+		"key" : "pipliz.baseresearch.bloomery",
+		"unlocksRecipes" : [
+			"NACH0.ToolCrafter.ironsword"
+		]
+	},
+	{
+		"key" : "pipliz.baseresearch.crossbow",
+		"unlocksRecipes" : [
+			"NACH0.ToolCrafter.crossbow"
+		]
+	}
+]
