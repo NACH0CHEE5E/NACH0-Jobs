@@ -5,3 +5,5 @@ Jobs include:
   -Tool Crafter (makes things related to tools)
   -Fletcher (makes ammo)
   -Brick Maker (Makes Bricks)
+
+mod also revamps stone mining, mining infinite stone blocks now returns stone blocks, dark stone blocks, dirt and sand, stone bricks can be made in the stonemason
